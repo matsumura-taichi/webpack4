@@ -2,4 +2,4 @@
 import { hello } from "./sub";
 
 // sub.jsに定義されたhello関数を実行
-hello();
+hello("こんにちは");
