@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "build": "webpack --mode development"
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server"
   },
   "devDependencies": {
     "webpack": "^4.39.1",
